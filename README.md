@@ -1,5 +1,5 @@
 
-<h2>                              POSIX Shell Scripting Cheat Sheet</h2>
+<h2>                             Shell Scripting Cheat Sheet</h2>
 
 <table>
     <thead>

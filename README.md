@@ -1,6 +1,8 @@
 
 <h2>                             Shell Scripting Cheat Sheet</h2>
 
+<h5>See python-specific-regex.md for python-specific identifiers.</h5>
+
 <table>
     <thead>
         <tr>

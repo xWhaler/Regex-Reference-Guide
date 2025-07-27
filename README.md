@@ -60,7 +60,6 @@
 </table>
 
 <h1> Common Regex identifiers </h1>
-<h3>Perl-compatible Regular Expressions (PCRE)</h3>
 
 <table>
     <thead>
